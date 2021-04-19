@@ -1,0 +1,23 @@
+#
+####### sprm-requirements.txt #######
+#
+###### Requirements without Version Specifiers ######
+numpy
+matplotlib
+scipy
+sklearn
+pandas
+statsmodels
+# uncheck these for DCOV-SDR and MDD-SDR options in sudire
+# Cython
+# ipopt
+dcor
+sympy
+scikit-learn
+pandas
+
+#
+###### Requirements with Version Specifiers ######
+#   See https://www.python.org/dev/peps/pep-0440/#version-specifiers
+# python > 3.5
+

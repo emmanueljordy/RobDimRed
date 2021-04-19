@@ -6,7 +6,3 @@ dependencies:
   - python
   - pip
   - cyipopt
-  - sphinx_math_dollar
-  - sklearn
-  - direpack
-  - sympy

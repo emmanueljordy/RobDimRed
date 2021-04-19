@@ -19,7 +19,6 @@ python:
    install:
    - requirements: docs/sphinx_requirements.txt
 
-name: docs
 channels:
   - conda-forge
   - defaults

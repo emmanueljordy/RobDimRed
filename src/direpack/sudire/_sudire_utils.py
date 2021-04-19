@@ -11,7 +11,6 @@ from ..dicomo._dicomo_utils import *
 import scipy.spatial as spp
 import pandas as pd
 import sympy
-import Ball
 from ..utils.utils import MyException
 
 

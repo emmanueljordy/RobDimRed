@@ -13,10 +13,10 @@ dicomo API
 
    .. autosummary::
    
-      ~dicomo.dicomo.__init__
-      ~dicomo.dicomo.fit
-      ~dicomo.dicomo.get_params
-      ~dicomo.dicomo.set_params
+      ~dicomo.__init__
+      ~dicomo.fit
+      ~dicomo.get_params
+      ~dicomo.set_params
    
    
 

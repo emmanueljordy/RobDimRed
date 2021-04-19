@@ -1,0 +1,6 @@
+name: RobDimRed-rtd
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cyipopt

@@ -19,8 +19,4 @@ python:
    install:
    - requirements: docs/sphinx_requirements.txt
 
-channels:
-  - conda-forge
-  - defaults
-dependencies:
-  - cyipopt
+

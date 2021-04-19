@@ -1,7 +1,7 @@
 dicomo API
 ===============
 
-.. currentmodule:: direpack
+.. currentmodule:: direpack.dicomo
 
 .. autoclass:: dicomo
 

@@ -8,3 +8,7 @@ dependencies:
   - cyipopt
   - sphinx-math-dollar
   - scikit-learn
+  - numpy
+  - matplotlib
+  - pandas 
+  - statsmodels

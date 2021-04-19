@@ -18,3 +18,10 @@ python:
    version: 3.7
    install:
    - requirements: docs/sphinx_requirements.txt
+
+name: docs
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cyipopt

@@ -4,4 +4,7 @@ channels:
   - defaults
 dependencies:
   - cyipopt
-  
+  - sphinx_math_dollar
+  - sklearn
+  - direpack
+  - sympy

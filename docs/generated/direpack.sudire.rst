@@ -13,13 +13,13 @@ direpack.sudire
 
    .. autosummary::
    
-      ~sudire.sudire.fit
-      ~sudire.sudire.fit_transform
-      ~sudire.sudire.get_params
-      ~sudire.sudire.predict
-      ~sudire.sudire.score
-      ~sudire.set_params
-      ~sudire.sudire.transform
+      ~sudire.fit
+      ~sudire.fit_transform
+      ~sudire.get_params
+      ~sudire.predict
+      ~sudire.score
+      ~set_params
+      ~sudire.transform
    
    
    

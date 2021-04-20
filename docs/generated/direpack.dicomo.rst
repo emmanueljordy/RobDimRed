@@ -1,12 +1,11 @@
 dicomo API
 ===============
 
-.. currentmodule:: direpack.dicomo
+.. currentmodule:: direpack
 
 .. autoclass:: dicomo
 
    
-   .. automethod:: __init__
 
    
    .. rubric:: Methods

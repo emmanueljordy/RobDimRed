@@ -71,7 +71,7 @@ which again leads to well-established methods such as principal component regres
 Usage
 ===========
 
-.. currentmodule:: direpack.ppdire
+.. automodule:: direpack
 
 .. autoclass:: ppdire
 
@@ -90,20 +90,18 @@ Usage
       ~ppdire.transform
 
 
-.. currentmodule:: direpack.dicomo
+.. automodule:: direpack
 
 .. autoclass:: dicomo
 
-   
-   .. automethod:: __init__
 
    
    .. rubric:: Methods
 
    .. autosummary::
    
-      ~dicomo.__init__
-      ~dicomo.fit
+      ~dicomo.dicomo.__init__
+      ~dicomo.dicomo.fit
       ~dicomo.get_params
       ~dicomo.set_params
 

@@ -70,19 +70,7 @@ which again leads to well-established methods such as principal component regres
 
 Usage
 ===========
-.. currentmodule:: direpack
 
-.. autosummary::
-    :toctree: generated/
-
-    ppdire
-    
-.. currentmodule:: direpack
-
-.. autosummary::
-    :toctree: generated/
-
-    dicomo
 
 
 

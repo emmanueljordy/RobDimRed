@@ -11,7 +11,7 @@ sprm API
 
    .. autosummary::
    
-      ~sprm__init__
+      ~sprm.__init__
       ~sprm.fit
       ~sprm.fit_transform
       ~sprm.get_params

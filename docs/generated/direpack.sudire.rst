@@ -5,8 +5,7 @@ direpack.sudire
 
 .. autoclass:: sudire
 
-   
-   .. automethod:: __init__
+  
 
    
    .. rubric:: Methods
@@ -18,7 +17,7 @@ direpack.sudire
       ~sudire.get_params
       ~sudire.predict
       ~sudire.score
-      ~set_params
+      ~sudire.set_params
       ~sudire.transform
    
    

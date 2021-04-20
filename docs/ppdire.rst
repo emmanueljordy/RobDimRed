@@ -82,7 +82,7 @@ Usage
 .. autosummary::
     :toctree: generated/
 
-    sudire
+    dicomo
 
 
 

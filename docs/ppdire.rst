@@ -70,40 +70,21 @@ which again leads to well-established methods such as principal component regres
 
 Usage
 ===========
+.. currentmodule:: direpack
 
-.. automodule:: direpack
+.. autosummary::
+    :toctree: generated/
 
-.. autoclass:: ppdire
+    ppdire
+    
+.. currentmodule:: direpack
 
+.. autosummary::
+    :toctree: generated/
 
-   .. rubric:: Methods
-
-   .. autosummary::
-
-      ~ppdire.__init__
-      ~ppdire.fit
-      ~ppdire.fit_transform
-      ~ppdire.get_params
-      ~ppdire.predict
-      ~ppdire.score
-      ~ppdire.set_params
-      ~ppdire.transform
+    dicomo
 
 
-.. automodule:: direpack
-
-.. autoclass:: dicomo
-
-
-   
-   .. rubric:: Methods
-
-   .. autosummary::
-   
-      ~dicomo.dicomo.__init__
-      ~dicomo.dicomo.fit
-      ~dicomo.get_params
-      ~dicomo.set_params
 
 
 

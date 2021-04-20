@@ -1,7 +1,7 @@
 ppdire API
 ===============
 
-.. currentmodule:: direpack.ppdire
+.. currentmodule:: direpack
 
 .. autoclass:: ppdire
 

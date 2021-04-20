@@ -10,14 +10,14 @@ ppdire API
 
    .. autosummary::
    
-      ~ppdire.__init__
-      ~ppdire.fit
-      ~ppdire.fit_transform
-      ~ppdire.get_params
-      ~ppdire.predict
-      ~ppdire.score
-      ~ppdire.set_params
-      ~ppdire.transform
+      ~ppdire.ppdire.__init__
+      ~ppdire.ppdire.fit
+      ~ppdire.ppdire.fit_transform
+      ~ppdire.ppdire.get_params
+      ~ppdire.ppdire.predict
+      ~ppdire.ppdire.score
+      ~ppdire.ppdire.set_params
+      ~ppdire.ppdire.transform
    
    
 

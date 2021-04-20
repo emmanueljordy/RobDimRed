@@ -73,15 +73,39 @@ Usage
 
 .. currentmodule:: direpack.ppdire
 
-.. autosummary::
-    :toctree: generated/
-        
-    ppdire
+.. autoclass:: ppdire
 
-.. autosummary::
-    :toctree: generated/
-        
-    dicomo
+
+   .. rubric:: Methods
+
+   .. autosummary::
+
+      ~ppdire.__init__
+      ~ppdire.fit
+      ~ppdire.fit_transform
+      ~ppdire.get_params
+      ~ppdire.predict
+      ~ppdire.score
+      ~ppdire.set_params
+      ~ppdire.transform
+
+
+.. currentmodule:: direpack.dicomo
+
+.. autoclass:: dicomo
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~dicomo.__init__
+      ~dicomo.fit
+      ~dicomo.get_params
+      ~dicomo.set_params
 
 
 

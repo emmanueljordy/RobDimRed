@@ -202,7 +202,7 @@ class ppdire(_BaseComposition,BaseEstimator,TransformerMixin,RegressorMixin):
     def fit(self,X,*args,**kwargs):
         
         """
-        
+        Fit a projection pursuit dimension reduction model
         
         """
 

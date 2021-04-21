@@ -75,7 +75,7 @@ Usage
 .. autosummary::
     :toctree: generated/
         
-    ppdire
+    ppd
 
        
 

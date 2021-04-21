@@ -20,7 +20,7 @@ from .sprm.sprm import sprm
 from .sprm.snipls import snipls
 from .sprm.rm import rm
 from .cross_validation._cv_support_functions import robust_loss
-from .ppdire.ppdire import ppdire
+from .ppdire.ppdire import ppd
 from .ppdire.capi import capi
 from .dicomo.dicomo import dicomo
 from .sudire.sudire import sudire, estimate_structural_dim

@@ -31,7 +31,7 @@ from ..preprocessing._preproc_utilities import scale_data
 from ..utils.utils import MyException, convert_X_input, convert_y_input
 import inspect
 
-class ppdire(_BaseComposition,BaseEstimator,TransformerMixin,RegressorMixin):
+class ppd(_BaseComposition,BaseEstimator,TransformerMixin,RegressorMixin):
     
     """
     PPDIRE Projection Pursuit Dimension Reduction

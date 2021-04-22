@@ -11,14 +11,14 @@ sprm API
 
    .. autosummary::
    
-      ~sprm.__init__
-      ~sprm.fit
-      ~sprm.fit_transform
-      ~sprm.get_params
-      ~sprm.predict
-      ~sprm.score
-      ~sprm.set_params
-      ~sprm.transform
+      ~sprm.sprm.__init__
+      ~sprm.sprm.fit
+      ~sprm.sprm.fit_transform
+      ~sprm.sprm.get_params
+      ~sprm.sprm.predict
+      ~sprm.sprm.score
+      ~sprm.sprm.set_params
+      ~sprm.sprm.transform
 
    
    

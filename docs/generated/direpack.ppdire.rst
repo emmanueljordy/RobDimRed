@@ -3,21 +3,21 @@ ppdire API
 
 .. currentmodule:: direpack
 
-.. autoclass:: ppd
+.. autoclass:: ppdire
 
    
    .. rubric:: Methods
 
    .. autosummary::
    
-      ~ppd.__init__
-      ~ppd.fit
-      ~ppd.fit_transform
-      ~ppd.get_params
-      ~ppd.predict
-      ~ppd.score
-      ~ppd.set_params
-      ~ppd.transform
+      ~ppdire.__init__
+      ~ppdire.fit
+      ~ppdire.fit_transform
+      ~ppdire.get_params
+      ~ppdire.predict
+      ~ppdire.score
+      ~ppdire.set_params
+      ~ppdire.transform
    
    
 

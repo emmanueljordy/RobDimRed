@@ -74,12 +74,6 @@ Usage
     :toctree: generated/
         
     sprm
-
-       
-
-.. autosummary::
-    :toctree: generated/
-
     snipls
 
 

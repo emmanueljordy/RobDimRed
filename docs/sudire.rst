@@ -64,7 +64,7 @@ Usage
     :toctree: generated/
         
     sudire
-    estimate_structural_dim
+    
 
 
 

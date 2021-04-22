@@ -68,13 +68,30 @@ Consistent with robust M estimation, it can be calculated through iteratively re
 Usage
 ===========
 
-.. currentmodule:: direpack
+.. currentmodule:: direpack.sprm
 
-.. autosummary::
-    :toctree: generated/
+.. autoclass:: sprm
+    
+     .. rubric:: Methods
+     
+     .. automethod:: __init__
+
+     
+
+      .. autosummary::
+   
+         ~sprm__init__
+         ~sprm.fit
+         ~sprm.fit_transform
+         ~sprm.get_params
+         ~sprm.predict
+         ~sprm.score
+         ~sprm.set_params
+         ~sprm.transform
+
+    
         
-    sprm
-    snipls
+    
 
 
 

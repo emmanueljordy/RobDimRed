@@ -67,7 +67,7 @@ Consistent with robust M estimation, it can be calculated through iteratively re
 Usage
 ===========
 
-.. currentmodule:: direpack
+.. currentmodule:: direpack.ppdire.ppdire
 
 .. autosummary::
     :toctree: generated/
@@ -75,7 +75,7 @@ Usage
     ppdire
 
        
-.. currentmodule:: direpack
+.. currentmodule:: direpack.dicomo.dicomo
 
 .. autosummary::
     :toctree: generated/

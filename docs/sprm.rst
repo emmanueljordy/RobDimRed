@@ -1,5 +1,4 @@
 .. _sprm:
-.. currentmodule:: direpack.sprm.sprm
 
 ################
 sprm
@@ -68,13 +67,15 @@ Consistent with robust M estimation, it can be calculated through iteratively re
 Usage
 ===========
 
-.. currentmodule:: direpack.sprm
+.. currentmodule:: direpack
 
 .. autoclass:: sprm
     
      .. rubric:: Methods
      
      .. automethod:: __init__
+     .. automethod:: fit
+     .. automethod:: fit_transform
 
      
 

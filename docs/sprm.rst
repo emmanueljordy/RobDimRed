@@ -67,29 +67,20 @@ Consistent with robust M estimation, it can be calculated through iteratively re
 Usage
 ===========
 
-.. currentmodule:: direpack
+.. currentmodule:: direpack.ppdire.ppdire
 
-.. autoclass:: sprm
-    
-     .. rubric:: Methods
-     
-     .. automethod:: __init__
-     .. automethod:: fit
-     .. automethod:: fit_transform
+.. autosummary::
+    :toctree: generated/
+        
+    ppdire
 
-     
+       
+.. currentmodule:: direpack.dicomo.dicomo
 
-      .. autosummary::
-   
-         ~sprm__init__
-         ~sprm.fit
-         ~sprm.fit_transform
-         ~sprm.get_params
-         ~sprm.predict
-         ~sprm.score
-         ~sprm.set_params
-         ~sprm.transform
+.. autosummary::
+    :toctree: generated/
 
+    dicomo
     
         
     

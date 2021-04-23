@@ -75,7 +75,7 @@ Usage
     sprm
 
        
-.. currentmodule:: direpack.snipls.snipls
+.. currentmodule:: direpack.sprm.snipls
 
 .. autosummary::
     :toctree: generated/

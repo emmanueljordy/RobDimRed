@@ -62,7 +62,7 @@ Usage
 
 .. autosummary::
     :toctree: generated/
-    :caption: SUDIRE
+    :template: class.rst
     
         
     sudire

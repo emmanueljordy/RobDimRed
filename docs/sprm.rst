@@ -71,6 +71,7 @@ Usage
 
 .. autosummary::
     :toctree: generated/
+    :caption: direpack.sprm
         
     sprm
 
@@ -79,6 +80,7 @@ Usage
 
 .. autosummary::
     :toctree: generated/
+    :caption: direpack.snipls
 
     snipls
     

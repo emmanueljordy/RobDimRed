@@ -63,7 +63,7 @@ Usage
 .. autosummary::
     :toctree: generated/
     :caption: direpack.sudire
-    :name: direpack.sudire
+    
         
     sudire
     

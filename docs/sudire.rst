@@ -61,9 +61,6 @@ Usage
 .. currentmodule:: direpack
 
 .. autosummary::
-    :toctree: generated/
-    :template: class.rst
-    
         
     sudire
     

@@ -58,13 +58,17 @@ is independent of $\mathbf{Y}$. Currently implemented $\mathfrak{P}$ statistics 
 Usage
 ===========
 
-.. currentmodule:: direpack.sudire.sudire
+.. currentmodule:: direpack
 
 .. autosummary::
     :toctree: generated/
     :caption: Sudire
         
     sudire
+.. rubric:: Methods
+   sudire.fit
+   sudire.fit_transform
+
     
 
 

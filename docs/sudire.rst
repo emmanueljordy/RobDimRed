@@ -65,6 +65,7 @@ Usage
     :caption: Sudire
         
     sudire
+    
 .. rubric:: Methods
    sudire.fit
    sudire.fit_transform

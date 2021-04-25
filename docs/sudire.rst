@@ -64,11 +64,8 @@ Usage
     :toctree: generated/
     :caption: Sudire
         
-    sudire
+    sudire.sudire.sudire
     
-.. rubric:: Methods
-   sudire.fit
-   sudire.fit_transform
 
     
 
